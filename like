@@ -1,5 +1,15 @@
 [
     {
+        "src": "https://2ch.hk/b/src/279365615/16712912894850.mp4",
+        "style": "--width:598; --height:854;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279359420/16712851661791.webm",
+        "style": "--width:1280; --height:720;",
+        "type": "video/webm"
+    },
+    {
         "src": "https://2ch.hk/b/src/279343008/16712595890650.mp4",
         "style": "--width:498; --height:720;",
         "type": "video/mp4"
@@ -102,6 +112,131 @@
     {
         "src": "https://2ch.hk/b/src/279374858/16713109169561.webm",
         "style": "--width:810; --height:854;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279224842/16711755274901.mp4",
+        "style": "--width:576; --height:432;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279374858/16713132473212.webm",
+        "style": "--width:360; --height:640;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279296138/16712652638290.webm",
+        "style": "--width:922; --height:600;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279296138/16712652638290.webm",
+        "style": "--width:922; --height:600;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279389039/16713420370670.webm",
+        "style": "--width:1280; --height:720;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279297178/16712813122820.webm",
+        "style": "--width:1080; --height:720;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279374858/16713106966982.mp4",
+        "style": "--width:608; --height:1080;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279297178/16712021440250.mp4",
+        "style": "--width:1016; --height:718;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279374858/16713112102193.webm",
+        "style": "--width:480; --height:853;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279374858/16713119557590.mp4",
+        "style": "--width:478; --height:792;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279378370/16713010813541.mp4",
+        "style": "--width:540; --height:960;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279296138/16712622389820.webm",
+        "style": "--width:540; --height:280;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279350373/16712861189673.webm",
+        "style": "--width:640; --height:640;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279224842/16710921639090.mp4",
+        "style": "--width:576; --height:432;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279297178/16712955479372.mp4",
+        "style": "--width:1280; --height:720;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279374858/16713123520320.mp4",
+        "style": "--width:1280; --height:720;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279297178/16711998166550.mp4",
+        "style": "--width:1280; --height:720;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279224842/16711414304510.mp4",
+        "style": "--width:1080; --height:1920;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279374858/16713126938070.webm",
+        "style": "--width:320; --height:568;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279389039/16713263687610.webm",
+        "style": "--width:1280; --height:720;",
+        "type": "video/webm"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279224842/16710921639972.mp4",
+        "style": "--width:640; --height:480;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279297178/16711846612350.mp4",
+        "style": "--width:1920; --height:1080;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279224842/16711675037670.mp4",
+        "style": "--width:1280; --height:720;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279297178/16712332256343.mp4",
+        "style": "--width:1008; --height:720;",
+        "type": "video/mp4"
+    },
+    {
+        "src": "https://2ch.hk/b/src/279224842/16710628039562.webm",
+        "style": "--width:720; --height:1280;",
         "type": "video/webm"
     }
 ]
